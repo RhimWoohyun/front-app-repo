@@ -64,7 +64,7 @@ function App(props) {
             align="center"
             className={classes.title}
           >
-            Hyuns Project v1
+            Hyuns Project v2
           </Typography>
           {new Date().toLocaleTimeString()}
         </Toolbar>
